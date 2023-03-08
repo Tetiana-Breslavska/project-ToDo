@@ -6,7 +6,7 @@ import TextInput from '../TextInput/TextInput.js';
 const ColumnForm = props => {
     const [titleValue, setTitleValue] = useState('');
     const [iconValue, setIconValue] = useState('');
-
+    console.log('Hello');
     const handleSubmit = e => {
         e.preventDefault();
         props.action({title: titleValue, icon:iconValue});
