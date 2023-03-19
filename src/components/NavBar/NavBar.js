@@ -9,7 +9,7 @@ const NavBar = () => {
 
     return (
         <nav className={styles.nav_bar}>
-            <a href="https:/" ><span className="fa fa-tasks" /></a>
+            <a href="/" ><span className="fa fa-tasks" /></a>
             <ul className={styles.nav_links}>
                 <li>
                     <a href="/">Home</a>
