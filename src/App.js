@@ -7,7 +7,7 @@ import Home from './components/Home/Home'
 import { Routes, Route } from 'react-router-dom';
 import NotFound from './components/NotFound/NotFound.js';
 import List from './components/List/List.js'
-import Footer from './components/Footer/Footer.js'
+// import Footer from './components/Footer/Footer.js'
 
 
 const App = () => {
