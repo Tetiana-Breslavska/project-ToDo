@@ -1,5 +1,5 @@
 open this app - 
-https://master--todolistappka.netlify.app/
+https://todolistappka.netlify.app/
 
 # Getting Started with Create React App
 
